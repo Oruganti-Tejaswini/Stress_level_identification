@@ -11,11 +11,11 @@ The objective of this analysis is to assess the impact of lifestyle factors on m
 
 # Dataset Description
 
-# Target Variable:
+ Target Variable:
 
 Stress_Level (Categorical: Levels of stress severity)
 
-# Feature Variables:
+ Feature Variables:
 
 Age
 
@@ -131,6 +131,7 @@ Clone this repository.
 Install the required packages by running:
 
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
+
 Load the dataset and execute the notebook or Python scripts to train and evaluate the models.
 
 # Evaluation Metrics
