@@ -171,3 +171,5 @@ In summary, Logistic Regression is the most reliable model for this task, and a 
 # License
 
 This project is open-source and available for educational and research purposes.
+
+Took reference from kaggle to achieve the whole project.
